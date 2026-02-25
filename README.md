@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Save</h1>
 
-<h3 align="center">🚀 AI/ML Enthusiast | 🤖 App Developer | 💻 Full-Stack Explorer</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 🎨 UI/UX Developer | 🤖 App Developer | 💻 Full-Stack Explorer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00FFFF&center=true&vCenter=true&width=600&lines=Tech+Lover;Problem+Solver;AI%2FML+Explorer;Flutter+Dev;Backend+Builder" alt="Typing SVG" />
