@@ -18,7 +18,7 @@
   <li>👯 I’m open to collaborating on <strong>AI/ML, App Dev, Full-Stack Projects</strong></li>
   <li>💬 Ask me about <strong>ML, Python, Flutter, Flask, and Web Dev</strong></li>
   <li>📧 <strong>Email</strong> – <a href="mailto:dhruvsave2311@gmail.com">dhruvsave2311@gmail.com</a></li>
-  <li>📄 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/1d5GN0bH_qdvJiF4GymsXMW5E5hzyGRWu/view?usp=sharing">Resume</a></li>
+  <li>📄 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/1sJGaiUdm-1V5qy1dN4mt1OlA9RzWxGgN/view?usp=sharing">Resume</a></li>
   <li>🌐 <strong>Portfolio</strong> – Coming Soon</li>
   <li>📁 <strong>All My Work</strong> – <a href="https://github.com/DHRUV-SAVE21">github.com/DHRUV-SAVE21</a></li>
 </ul>
